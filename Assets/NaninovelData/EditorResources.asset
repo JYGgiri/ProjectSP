@@ -166,3 +166,10 @@ MonoBehaviour:
     - name: ToastUI
       pathPrefix: UI
       guid: dd85ce99288c2f8488447fa511b1c0d6
+  - Id: Scripts
+    Resources: []
+  - Id: Backgrounds/bb701def-f9e2-4560-8a8b-5c67978784d1
+    Resources:
+    - name: 
+      pathPrefix: Backgrounds/MainBackground
+      guid: 
