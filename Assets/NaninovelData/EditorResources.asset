@@ -167,9 +167,15 @@ MonoBehaviour:
       pathPrefix: UI
       guid: dd85ce99288c2f8488447fa511b1c0d6
   - Id: Scripts
-    Resources: []
+    Resources:
+    - name: Start_Script
+      pathPrefix: Scripts
+      guid: 1d6a3e2859ce97846a424eaa541ab3d5
+    - name: Second_Script
+      pathPrefix: Scripts
+      guid: dcee05a48a2175e4caf124db0d3b7e98
   - Id: Backgrounds/bb701def-f9e2-4560-8a8b-5c67978784d1
     Resources:
-    - name: 
+    - name: Background, autumn_1
       pathPrefix: Backgrounds/MainBackground
-      guid: 
+      guid: 8cc401de261464c40b00a70bd2a79c64
