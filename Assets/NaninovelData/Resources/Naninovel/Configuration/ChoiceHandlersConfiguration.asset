@@ -15,7 +15,7 @@ MonoBehaviour:
   DefaultDuration: 0.35
   DefaultEasing: 0
   AutoShowOnModify: 1
-  DefaultHandlerId: ButtonList
+  DefaultHandlerId: ButtonArea
   ChoiceButtonLoader:
     PathPrefix: 
     ProviderTypes:
